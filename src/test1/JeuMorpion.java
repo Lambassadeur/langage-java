@@ -5,6 +5,9 @@
  */
 package test1;
 
+/*
+couleur bleue
+*/
 import java.io.IOException;
 import test1.util.ConsoleUtil;
 import test1.util.MathUtil;
